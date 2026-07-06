@@ -7,3 +7,4 @@ add row 3
 add row 4
 add row 5
 add row 6
+add row 7
