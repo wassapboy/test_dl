@@ -1,2 +1,3 @@
 add test new 10000 
 add new 8
+add new rule
